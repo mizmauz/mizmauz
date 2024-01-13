@@ -1,5 +1,11 @@
 # Hello :)
 
+Digitialization of the utilities industry.
+
+We help customers on become all-digital companies
+  - Focus on transforming from SAP IS-U into SAP S/4HANA Utilities und SAP Cloud for Utilities.
+  - Leveraging platform technologies like SAP BTP, Kubernetes, KYMA
+
 ## Contact Information
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="20" height="20"> Follow me on linkedin https://www.linkedin.com/in/markus-krammer/
 
