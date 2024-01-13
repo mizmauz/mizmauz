@@ -10,4 +10,5 @@
 📧 E-Mail me at krammer@heureso.com
 
 # Blog posts
+[Installing Kafka and Postgres on KYMA cluster](https://blogs.sap.com/2024/01/09/installing-kafka-and-postgres-on-kyma/)
 <p>&nbsp;</p>
