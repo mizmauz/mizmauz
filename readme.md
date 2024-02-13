@@ -15,6 +15,7 @@ We help customers on become all-digital companies
 
 # Blog posts
 [Installing Kafka and Postgres on KYMA cluster](https://blogs.sap.com/2024/01/09/installing-kafka-and-postgres-on-kyma/)
+
 [Sending and Receiving Kafka Messages using Quarkus on KYMA](https://community.sap.com/t5/open-source-blogs/sending-and-receiving-kafka-messages-using-quarkus-and-kyma/ba-p/13583287/)
 
 
