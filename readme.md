@@ -18,6 +18,7 @@ We help customers on become all-digital companies
 
 [Sending and Receiving Kafka Messages using Quarkus on KYMA](https://community.sap.com/t5/open-source-blogs/sending-and-receiving-kafka-messages-using-quarkus-and-kyma/ba-p/13583287/)
 
+[cap-services-to-translate-a-rest-quarkus-into-a-odata-deployed-kyma](https://community.sap.com/t5/open-source-blogs/cap-services-to-translate-a-rest-quarkus-into-a-odata-deployed-kyma/ba-p/13617874)
 
 ## Statistics
 
